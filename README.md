@@ -20,7 +20,7 @@
 
 <p align="center">
  <a href="https://www.linkedin.com/in/rahul-akhade-7966a4293/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ajay"/> 
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="rahul"/> 
 </p>
 <br />
 
@@ -49,7 +49,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Android](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 <br/>
 <br/>
 <hr/>
@@ -63,7 +62,7 @@
 
 <p align="center">
   <a href="https://github.com/RahulTAkhade">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Techwolf78&theme=radical" alt="Rahul's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RahulTAkhade&theme=radical" alt="Rahul's GitHub Contribution"/>
   </a>
 </p>
 
