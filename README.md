@@ -3,7 +3,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://portfolio-rahul-akhade-projects.vercel.app/">Ajay Pawar</a></b>
+                <b><a target="_blank" href="https://portfolio-rahul-akhade-projects.vercel.app/">Rahul Akhade</a></b>
         </samp>
 </h3>
 
@@ -49,6 +49,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
 <br/>
 <br/>
 <hr/>
